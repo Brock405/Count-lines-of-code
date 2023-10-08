@@ -1,4 +1,4 @@
-# Detect-lines-of-code
+# Count-lines-of-code
 
 Counts all the lines of code in a project.
 
